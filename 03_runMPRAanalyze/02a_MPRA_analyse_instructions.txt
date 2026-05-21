@@ -1,0 +1,301 @@
+analysis_type	analysis_subtype	analysis_name	group1_samples	group2_samples	N_test	N_chunk
+oligo_activity	celltype	A549-ACE2_all	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3		11560	31
+oligo_activity	celltype	HepG2_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3		11620	40
+oligo_activity	celltype	K562_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3		11620	36
+oligo_activity	celltype_cond	A549-ACE2_IAV_all	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3		11556	23
+oligo_activity	celltype_cond	A549-ACE2_NS_all	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3		11556	23
+oligo_activity	celltype_cond	A549-ACE2_SARS_all	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3		11555	23
+oligo_activity	celltype_cond	A549-ACE2_TNFa_all	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3		11547	23
+oligo_activity	celltype_cond	HepG2_DEX_all	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3		11618	24
+oligo_activity	celltype_cond	HepG2_IFNA2b_all	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4		11613	26
+oligo_activity	celltype_cond	HepG2_NS_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5		11618	27
+oligo_activity	celltype_cond	HepG2_TNFa_all	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3		11547	22
+oligo_activity	celltype_cond	K562_IFNA2b_all	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4		11554	24
+oligo_activity	celltype_cond	K562_NS_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5		11619	26
+oligo_activity	celltype_cond	K562_TNFa_all	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3		11552	23
+oligo_activity	celltype_cond	K562_DEX_all	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3		11552	23
+oligo_activity	response	response_A549-ACE2_IAV	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3	11559	25
+oligo_activity	response	response_A549-ACE2_SARS	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3	11558	25
+oligo_activity	response	response_A549-ACE2_TNFa	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	11556	23
+oligo_activity	response	response_HepG2_DEX	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3	11620	31
+oligo_activity	response	response_HepG2_IFNA2b	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	11619	34
+oligo_activity	response	response_HepG2_TNFa	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	11619	30
+oligo_activity	response	response_K562_DEX	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3	11620	29
+oligo_activity	response	response_K562_IFNA2b	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	11620	30
+oligo_activity	response	response_K562_TNFa	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	11620	29
+oligo_activity	celltype_comp	Celltype_HepG2_A549-ACE2_NS	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	11622	30
+oligo_activity	celltype_comp	Celltype_HepG2_A549-ACE2_TNFa	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	11553	25
+oligo_activity	celltype_comp	Celltype_HepG2_K562_DEX	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3	11621	27
+oligo_activity	celltype_comp	Celltype_HepG2_K562_IFNA2b	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	11621	30
+oligo_activity	celltype_comp	Celltype_HepG2_K562_NS	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	11621	33
+oligo_activity	celltype_comp	Celltype_HepG2_K562_TNFa	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	11554	25
+oligo_activity	celltype_comp	Celltype_K562_A549-ACE2_NS	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	11621	29
+oligo_activity	celltype_comp	Celltype_K562_A549-ACE2_TNFa	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	11554	25
+oligo_activity	celltype_comp_any	Celltype_HepG2_A549-ACE2_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	11623	52
+oligo_activity	celltype_comp_any	Celltype_HepG2_K562_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	11622	57
+oligo_activity	celltype_comp_any	Celltype_K562_A549-ACE2_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	11621	47
+oligo_activity	sample	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R1-P3		11532	21
+oligo_activity	sample	A549-ACE2_IAV_R2	A549-ACE2_IAV_R2		11535	21
+oligo_activity	sample	A549-ACE2_IAV_R3	A549-ACE2_IAV_R3		11534	21
+oligo_activity	sample	A549-ACE2_NS_R1	A549-ACE2_NS_R1		11540	21
+oligo_activity	sample	A549-ACE2_NS_R2-P3	A549-ACE2_NS_R2-P3		11533	21
+oligo_activity	sample	A549-ACE2_NS_R3-P3	A549-ACE2_NS_R3-P3		11529	21
+oligo_activity	sample	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R1-P3		11528	21
+oligo_activity	sample	A549-ACE2_SARS_R2-P3	A549-ACE2_SARS_R2-P3		11541	21
+oligo_activity	sample	A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R3-P3		11529	21
+oligo_activity	sample	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R1		11522	21
+oligo_activity	sample	A549-ACE2_TNFa_R2	A549-ACE2_TNFa_R2		11535	21
+oligo_activity	sample	A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R3		11527	21
+oligo_activity	sample	HepG2_DEX_R1	HepG2_DEX_R1		11127	21
+oligo_activity	sample	HepG2_DEX_R2	HepG2_DEX_R2		11537	21
+oligo_activity	sample	HepG2_DEX_R3	HepG2_DEX_R3		11540	21
+oligo_activity	sample	HepG2_IFNA2b_R1	HepG2_IFNA2b_R1		11178	21
+oligo_activity	sample	HepG2_IFNA2b_R2	HepG2_IFNA2b_R2		11060	21
+oligo_activity	sample	HepG2_IFNA2b_R3	HepG2_IFNA2b_R3		11533	21
+oligo_activity	sample	HepG2_IFNA2b_R4	HepG2_IFNA2b_R4		11029	20
+oligo_activity	sample	HepG2_NS_R1	HepG2_NS_R1		11144	21
+oligo_activity	sample	HepG2_NS_R2	HepG2_NS_R2		11180	21
+oligo_activity	sample	HepG2_NS_R3	HepG2_NS_R3		11526	21
+oligo_activity	sample	HepG2_NS_R4	HepG2_NS_R4		11052	21
+oligo_activity	sample	HepG2_NS_R5	HepG2_NS_R5		11530	21
+oligo_activity	sample	HepG2_TNFa_R1	HepG2_TNFa_R1		11517	21
+oligo_activity	sample	HepG2_TNFa_R2	HepG2_TNFa_R2		11523	21
+oligo_activity	sample	HepG2_TNFa_R3	HepG2_TNFa_R3		11510	21
+oligo_activity	sample	K562_IFNA2b_R1	K562_IFNA2b_R1		11539	21
+oligo_activity	sample	K562_IFNA2b_R2	K562_IFNA2b_R2		11535	21
+oligo_activity	sample	K562_IFNA2b_R3	K562_IFNA2b_R3		11528	21
+oligo_activity	sample	K562_IFNA2b_R4	K562_IFNA2b_R4		11543	21
+oligo_activity	sample	K562_NS_R1	K562_NS_R1		11189	21
+oligo_activity	sample	K562_NS_R2	K562_NS_R2		11535	21
+oligo_activity	sample	K562_NS_R3	K562_NS_R3		11528	21
+oligo_activity	sample	K562_NS_R4	K562_NS_R4		11547	21
+oligo_activity	sample	K562_NS_R5	K562_NS_R5		11514	21
+oligo_activity	sample	K562_TNFa_R1	K562_TNFa_R1		11542	21
+oligo_activity	sample	K562_TNFa_R2	K562_TNFa_R2		11528	21
+oligo_activity	sample	K562_TNFa_R3	K562_TNFa_R3		11516	21
+oligo_activity	sample	K562_DEX_R1	K562_DEX_R1		11542	21
+oligo_activity	sample	K562_DEX_R2	K562_DEX_R2		11528	21
+oligo_activity	sample	K562_DEX_R3	K562_DEX_R3		11516	21
+emVars	celltype	A549-ACE2_all	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3		5711	21
+emVars	celltype	HepG2_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3		5735	29
+emVars	celltype	K562_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3		5735	26
+emVars	celltype_cond	A549-ACE2_IAV_all	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3		5711	13
+emVars	celltype_cond	A549-ACE2_NS_all	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3		5710	13
+emVars	celltype_cond	A549-ACE2_SARS_all	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3		5709	13
+emVars	celltype_cond	A549-ACE2_TNFa_all	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3		5708	13
+emVars	celltype_cond	HepG2_DEX_all	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3		5735	14
+emVars	celltype_cond	HepG2_IFNA2b_all	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4		5734	16
+emVars	celltype_cond	HepG2_NS_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5		5735	17
+emVars	celltype_cond	HepG2_TNFa_all	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3		5708	13
+emVars	celltype_cond	K562_IFNA2b_all	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4		5708	14
+emVars	celltype_cond	K562_NS_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5		5735	16
+emVars	celltype_cond	K562_TNFa_all	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3		5709	13
+emVars	celltype_cond	K562_DEX_all	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3		5709	13
+emVars	response	response_A549-ACE2_IAV	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3	5711	16
+emVars	response	response_A549-ACE2_SARS	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3	5710	15
+emVars	response	response_A549-ACE2_TNFa	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	5710	14
+emVars	response	response_HepG2_DEX	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3	5735	21
+emVars	response	response_HepG2_IFNA2b	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	5735	23
+emVars	response	response_HepG2_TNFa	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	5735	20
+emVars	response	response_K562_DEX	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3	5735	19
+emVars	response	response_K562_IFNA2b	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	5735	20
+emVars	response	response_K562_TNFa	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	5735	19
+emVars	celltype_comp	Celltype_HepG2_A549-ACE2_NS	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	5735	20
+emVars	celltype_comp	Celltype_HepG2_A549-ACE2_TNFa	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	5709	15
+emVars	celltype_comp	Celltype_HepG2_K562_DEX	HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3	K562_DEX_R1,K562_DEX_R2,K562_DEX_R3	5735	17
+emVars	celltype_comp	Celltype_HepG2_K562_IFNA2b	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	5735	20
+emVars	celltype_comp	Celltype_HepG2_K562_NS	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	5735	23
+emVars	celltype_comp	Celltype_HepG2_K562_TNFa	HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	5710	15
+emVars	celltype_comp	Celltype_K562_A549-ACE2_NS	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	5735	19
+emVars	celltype_comp	Celltype_K562_A549-ACE2_TNFa	K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	5710	16
+emVars	celltype_comp_any	Celltype_HepG2_A549-ACE2_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	5735	41
+emVars	celltype_comp_any	Celltype_HepG2_K562_all	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5,HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4,HepG2_DEX_R1,HepG2_DEX_R2,HepG2_DEX_R3,HepG2_TNFa_R1,HepG2_TNFa_R2,HepG2_TNFa_R3	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	5735	45
+emVars	celltype_comp_any	Celltype_K562_A549-ACE2_all	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5,K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4,K562_DEX_R1,K562_DEX_R2,K562_DEX_R3,K562_TNFa_R1,K562_TNFa_R2,K562_TNFa_R3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3,A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3,A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2,A549-ACE2_IAV_R3,A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	5735	37
+emVars	sample	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R1-P3		5703	11
+emVars	sample	A549-ACE2_IAV_R2	A549-ACE2_IAV_R2		5704	11
+emVars	sample	A549-ACE2_IAV_R3	A549-ACE2_IAV_R3		5705	11
+emVars	sample	A549-ACE2_NS_R1	A549-ACE2_NS_R1		5706	11
+emVars	sample	A549-ACE2_NS_R2-P3	A549-ACE2_NS_R2-P3		5706	11
+emVars	sample	A549-ACE2_NS_R3-P3	A549-ACE2_NS_R3-P3		5704	11
+emVars	sample	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R1-P3		5701	11
+emVars	sample	A549-ACE2_SARS_R2-P3	A549-ACE2_SARS_R2-P3		5709	11
+emVars	sample	A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R3-P3		5702	11
+emVars	sample	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R1		5700	11
+emVars	sample	A549-ACE2_TNFa_R2	A549-ACE2_TNFa_R2		5706	11
+emVars	sample	A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R3		5703	11
+emVars	sample	HepG2_DEX_R1	HepG2_DEX_R1		5565	12
+emVars	sample	HepG2_DEX_R2	HepG2_DEX_R2		5705	11
+emVars	sample	HepG2_DEX_R3	HepG2_DEX_R3		5706	11
+emVars	sample	HepG2_IFNA2b_R1	HepG2_IFNA2b_R1		5582	12
+emVars	sample	HepG2_IFNA2b_R2	HepG2_IFNA2b_R2		5543	11
+emVars	sample	HepG2_IFNA2b_R3	HepG2_IFNA2b_R3		5705	11
+emVars	sample	HepG2_IFNA2b_R4	HepG2_IFNA2b_R4		5532	11
+emVars	sample	HepG2_NS_R1	HepG2_NS_R1		5580	12
+emVars	sample	HepG2_NS_R2	HepG2_NS_R2		5587	12
+emVars	sample	HepG2_NS_R3	HepG2_NS_R3		5703	11
+emVars	sample	HepG2_NS_R4	HepG2_NS_R4		5535	11
+emVars	sample	HepG2_NS_R5	HepG2_NS_R5		5702	11
+emVars	sample	HepG2_TNFa_R1	HepG2_TNFa_R1		5699	11
+emVars	sample	HepG2_TNFa_R2	HepG2_TNFa_R2		5701	11
+emVars	sample	HepG2_TNFa_R3	HepG2_TNFa_R3		5700	11
+emVars	sample	K562_IFNA2b_R1	K562_IFNA2b_R1		5703	11
+emVars	sample	K562_IFNA2b_R2	K562_IFNA2b_R2		5702	11
+emVars	sample	K562_IFNA2b_R3	K562_IFNA2b_R3		5702	11
+emVars	sample	K562_IFNA2b_R4	K562_IFNA2b_R4		5706	11
+emVars	sample	K562_NS_R1	K562_NS_R1		5589	12
+emVars	sample	K562_NS_R2	K562_NS_R2		5705	11
+emVars	sample	K562_NS_R3	K562_NS_R3		5702	11
+emVars	sample	K562_NS_R4	K562_NS_R4		5707	11
+emVars	sample	K562_NS_R5	K562_NS_R5		5701	11
+emVars	sample	K562_TNFa_R1	K562_TNFa_R1		5706	11
+emVars	sample	K562_TNFa_R2	K562_TNFa_R2		5704	11
+emVars	sample	K562_TNFa_R3	K562_TNFa_R3		5699	11
+emVars	sample	K562_DEX_R1	K562_DEX_R1		5706	11
+emVars	sample	K562_DEX_R2	K562_DEX_R2		5704	11
+emVars	sample	K562_DEX_R3	K562_DEX_R3		5699	11
+oligo_activity	replicate_all	A549-ACE2_IAV_replicates_allvs1	A549-ACE2_IAV_R2,A549-ACE2_IAV_R3	A549-ACE2_IAV_R1-P3	11556	23
+oligo_activity	replicate_all	A549-ACE2_IAV_replicates_allvs2	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R3	A549-ACE2_IAV_R2	11556	23
+oligo_activity	replicate_all	A549-ACE2_IAV_replicates_allvs3	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2	A549-ACE2_IAV_R3	11556	23
+oligo_activity	replicate_all	A549-ACE2_NS_P3-effect_1vs23	A549-ACE2_NS_R1	A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	11556	23
+oligo_activity	replicate_all	A549-ACE2_NS_replicates_allvs1	A549-ACE2_NS_R3-P3,A549-ACE2_NS_R2-P3	A549-ACE2_NS_R1	11556	23
+oligo_activity	replicate_all	A549-ACE2_NS_replicates_allvs2	A549-ACE2_NS_R1,A549-ACE2_NS_R3-P3	A549-ACE2_NS_R2-P3	11556	23
+oligo_activity	replicate_all	A549-ACE2_NS_replicates_allvs3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3	A549-ACE2_NS_R3-P3	11556	23
+oligo_activity	replicate_all	A549-ACE2_SARS_replicates_allvs1	A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R1-P3	11555	23
+oligo_activity	replicate_all	A549-ACE2_SARS_replicates_allvs2	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R2-P3	11555	23
+oligo_activity	replicate_all	A549-ACE2_SARS_replicates_allvs3	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3	A549-ACE2_SARS_R3-P3	11555	23
+oligo_activity	replicate_all	A549-ACE2_TNFa_allvs1	A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R1	11547	23
+oligo_activity	replicate_all	A549-ACE2_TNFa_allvs2	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R2	11547	23
+oligo_activity	replicate_all	A549-ACE2_TNFa_allvs3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2	A549-ACE2_TNFa_R3	11547	23
+oligo_activity	replicate_all	HepG2_DEX_allvs1	HepG2_DEX_R2,HepG2_DEX_R3	HepG2_DEX_R1	11618	24
+oligo_activity	replicate_all	HepG2_DEX_allvs2	HepG2_DEX_R1,HepG2_DEX_R3	HepG2_DEX_R2	11618	24
+oligo_activity	replicate_all	HepG2_DEX_allvs3	HepG2_DEX_R1,HepG2_DEX_R2	HepG2_DEX_R3	11618	24
+oligo_activity	replicate_all	HepG2_IFNA2b_allvs1	HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	HepG2_IFNA2b_R1	11613	26
+oligo_activity	replicate_all	HepG2_IFNA2b_allvs2	HepG2_IFNA2b_R1,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	HepG2_IFNA2b_R2	11613	26
+oligo_activity	replicate_all	HepG2_IFNA2b_allvs3	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R4	HepG2_IFNA2b_R3	11613	26
+oligo_activity	replicate_all	HepG2_IFNA2b_allvs4	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3	HepG2_IFNA2b_R4	11613	26
+oligo_activity	replicate_all	HepG2_NS_replicates_allvs1	HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R1	11618	27
+oligo_activity	replicate_all	HepG2_NS_replicates_allvs2	HepG2_NS_R1,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R2	11618	27
+oligo_activity	replicate_all	HepG2_NS_replicates_allvs3	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R3	11618	27
+oligo_activity	replicate_all	HepG2_NS_replicates_allvs4	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R5	HepG2_NS_R4	11618	27
+oligo_activity	replicate_all	HepG2_NS_replicates_allvs5	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4	HepG2_NS_R5	11618	27
+oligo_activity	replicate_all	HepG2_TNFa_allvs1	HepG2_TNFa_R2,HepG2_TNFa_R3	HepG2_TNFa_R1	11547	22
+oligo_activity	replicate_all	HepG2_TNFa_allvs2	HepG2_TNFa_R1,HepG2_TNFa_R3	HepG2_TNFa_R2	11547	22
+oligo_activity	replicate_all	HepG2_TNFa_allvs3	HepG2_TNFa_R1,HepG2_TNFa_R2	HepG2_TNFa_R3	11547	22
+oligo_activity	replicate_all	K562_IFNA2b_allvs1	K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	K562_IFNA2b_R1	11554	24
+oligo_activity	replicate_all	K562_IFNA2b_allvs2	K562_IFNA2b_R1,K562_IFNA2b_R3,K562_IFNA2b_R4	K562_IFNA2b_R2	11554	24
+oligo_activity	replicate_all	K562_IFNA2b_allvs3	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R4	K562_IFNA2b_R3	11554	24
+oligo_activity	replicate_all	K562_IFNA2b_allvs4	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3	K562_IFNA2b_R4	11554	24
+oligo_activity	replicate_all	K562_NS_replicates_allvs1	K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_NS_R1	11619	26
+oligo_activity	replicate_all	K562_NS_replicates_allvs2	K562_NS_R1,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_NS_R2	11619	26
+oligo_activity	replicate_all	K562_NS_replicates_allvs3	K562_NS_R1,K562_NS_R2,K562_NS_R4,K562_NS_R5	K562_NS_R3	11619	26
+oligo_activity	replicate_all	K562_NS_replicates_allvs4	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R5	K562_NS_R4	11619	26
+oligo_activity	replicate_all	K562_NS_replicates_allvs5	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4	K562_NS_R5	11619	26
+oligo_activity	replicate_all	K562_TNFa_allvs1	K562_TNFa_R2,K562_TNFa_R3	K562_TNFa_R1	11552	23
+oligo_activity	replicate_all	K562_TNFa_allvs2	K562_TNFa_R1,K562_TNFa_R3	K562_TNFa_R2	11552	23
+oligo_activity	replicate_all	K562_TNFa_allvs3	K562_TNFa_R1,K562_TNFa_R2	K562_TNFa_R3	11552	23
+oligo_activity	replicate_all	K562_DEX_allvs1	K562_DEX_R2,K562_DEX_R3	K562_DEX_R1	11552	23
+oligo_activity	replicate_all	K562_DEX_allvs2	K562_DEX_R1,K562_DEX_R3	K562_DEX_R2	11552	23
+oligo_activity	replicate_all	K562_DEX_allvs3	K562_DEX_R1,K562_DEX_R2	K562_DEX_R3	11552	23
+oligo_activity	replicate_pair	A549-ACE2_IAV_replicates_1vs2	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R2	11544	22
+oligo_activity	replicate_pair	A549-ACE2_IAV_replicates_1vs3	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R3	11550	22
+oligo_activity	replicate_pair	A549-ACE2_NS_replicates_1vs2	A549-ACE2_NS_R1	A549-ACE2_NS_R2-P3	11551	22
+oligo_activity	replicate_pair	A549-ACE2_NS_replicates_1vs3	A549-ACE2_NS_R1	A549-ACE2_NS_R3-P3	11552	22
+oligo_activity	replicate_pair	A549-ACE2_SARS_replicates_1vs2	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R2-P3	11551	22
+oligo_activity	replicate_pair	A549-ACE2_SARS_replicates_1vs3	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R3-P3	11547	22
+oligo_activity	replicate_pair	A549-ACE2_TNFa_replicates_1vs2	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R2	11545	22
+oligo_activity	replicate_pair	A549-ACE2_TNFa_replicates_1vs3	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R3	11537	22
+oligo_activity	replicate_pair	HepG2_DEX_replicates_1vs2	HepG2_DEX_R1	HepG2_DEX_R2	11616	23
+oligo_activity	replicate_pair	HepG2_DEX_replicates_1vs3	HepG2_DEX_R1	HepG2_DEX_R3	11615	23
+oligo_activity	replicate_pair	HepG2_IFNA2b_replicates_1vs2	HepG2_IFNA2b_R1	HepG2_IFNA2b_R2	11191	23
+oligo_activity	replicate_pair	HepG2_IFNA2b_replicates_1vs3	HepG2_IFNA2b_R1	HepG2_IFNA2b_R3	11613	23
+oligo_activity	replicate_pair	HepG2_IFNA2b_replicates_1vs4	HepG2_IFNA2b_R1	HepG2_IFNA2b_R4	11190	23
+oligo_activity	replicate_pair	HepG2_NS_replicates_1vs2	HepG2_NS_R1	HepG2_NS_R2	11209	23
+oligo_activity	replicate_pair	HepG2_NS_replicates_1vs3	HepG2_NS_R1	HepG2_NS_R3	11616	23
+oligo_activity	replicate_pair	HepG2_NS_replicates_1vs4	HepG2_NS_R1	HepG2_NS_R4	11174	23
+oligo_activity	replicate_pair	HepG2_NS_replicates_1vs5	HepG2_NS_R1	HepG2_NS_R5	11614	23
+oligo_activity	replicate_pair	HepG2_TNFa_replicates_1vs2	HepG2_TNFa_R1	HepG2_TNFa_R2	11544	21
+oligo_activity	replicate_pair	HepG2_TNFa_replicates_1vs3	HepG2_TNFa_R1	HepG2_TNFa_R3	11538	21
+oligo_activity	replicate_pair	K562_IFNA2b_replicates_1vs2	K562_IFNA2b_R1	K562_IFNA2b_R2	11551	22
+oligo_activity	replicate_pair	K562_IFNA2b_replicates_1vs3	K562_IFNA2b_R1	K562_IFNA2b_R3	11547	22
+oligo_activity	replicate_pair	K562_IFNA2b_replicates_1vs4	K562_IFNA2b_R1	K562_IFNA2b_R4	11552	22
+oligo_activity	replicate_pair	K562_NS_replicates_1vs2	K562_NS_R1	K562_NS_R2	11615	23
+oligo_activity	replicate_pair	K562_NS_replicates_1vs3	K562_NS_R1	K562_NS_R3	11615	23
+oligo_activity	replicate_pair	K562_NS_replicates_1vs4	K562_NS_R1	K562_NS_R4	11618	23
+oligo_activity	replicate_pair	K562_NS_replicates_1vs5	K562_NS_R1	K562_NS_R5	11614	23
+oligo_activity	replicate_pair	K562_TNFa_replicates_1vs2	K562_TNFa_R1	K562_TNFa_R2	11550	22
+oligo_activity	replicate_pair	K562_TNFa_replicates_1vs3	K562_TNFa_R1	K562_TNFa_R3	11549	22
+oligo_activity	replicate_pair	K562_DEX_replicates_1vs2	K562_DEX_R1	K562_DEX_R2	11549	22
+oligo_activity	replicate_pair	K562_DEX_replicates_1vs3	K562_DEX_R1	K562_DEX_R3	11549	22
+emVars	replicate_all	549-ACE2_SARS_replicates_allvs3	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R2-P3	A549-ACE2_SARS_R3-P3	5709	13
+emVars	replicate_all	A549-ACE2_IAV_replicates_allvs1	A549-ACE2_IAV_R2,A549-ACE2_IAV_R3	A549-ACE2_IAV_R1-P3	5711	13
+emVars	replicate_all	A549-ACE2_IAV_replicates_allvs2	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R3	A549-ACE2_IAV_R2	5711	13
+emVars	replicate_all	A549-ACE2_IAV_replicates_allvs3	A549-ACE2_IAV_R1-P3,A549-ACE2_IAV_R2	A549-ACE2_IAV_R3	5711	13
+emVars	replicate_all	A549-ACE2_NS_replicates_allvs1	A549-ACE2_NS_R3-P3,A549-ACE2_NS_R2-P3	A549-ACE2_NS_R1	5710	13
+emVars	replicate_all	A549-ACE2_NS_replicates_allvs2	A549-ACE2_NS_R1,A549-ACE2_NS_R3-P3	A549-ACE2_NS_R2-P3	5710	13
+emVars	replicate_all	A549-ACE2_NS_replicates_allvs3	A549-ACE2_NS_R1,A549-ACE2_NS_R2-P3	A549-ACE2_NS_R3-P3	5710	13
+emVars	replicate_all	A549-ACE2_SARS_replicates_allvs1	A549-ACE2_SARS_R2-P3,A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R1-P3	5709	13
+emVars	replicate_all	A549-ACE2_SARS_replicates_allvs2	A549-ACE2_SARS_R1-P3,A549-ACE2_SARS_R3-P3	A549-ACE2_SARS_R2-P3	5709	13
+emVars	replicate_all	A549-ACE2_TNFa_allvs1	A549-ACE2_TNFa_R2,A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R1	5708	13
+emVars	replicate_all	A549-ACE2_TNFa_allvs2	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R3	A549-ACE2_TNFa_R2	5708	13
+emVars	replicate_all	A549-ACE2_TNFa_allvs3	A549-ACE2_TNFa_R1,A549-ACE2_TNFa_R2	A549-ACE2_TNFa_R3	5708	13
+emVars	replicate_all	HepG2_DEX_allvs1	HepG2_DEX_R2,HepG2_DEX_R3	HepG2_DEX_R1	5735	14
+emVars	replicate_all	HepG2_DEX_allvs2	HepG2_DEX_R1,HepG2_DEX_R3	HepG2_DEX_R2	5735	14
+emVars	replicate_all	HepG2_DEX_allvs3	HepG2_DEX_R1,HepG2_DEX_R2	HepG2_DEX_R3	5735	14
+emVars	replicate_all	HepG2_IFNA2b_allvs1	HepG2_IFNA2b_R2,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	HepG2_IFNA2b_R1	5734	16
+emVars	replicate_all	HepG2_IFNA2b_allvs2	HepG2_IFNA2b_R1,HepG2_IFNA2b_R3,HepG2_IFNA2b_R4	HepG2_IFNA2b_R2	5734	16
+emVars	replicate_all	HepG2_IFNA2b_allvs3	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R4	HepG2_IFNA2b_R3	5734	16
+emVars	replicate_all	HepG2_IFNA2b_allvs4	HepG2_IFNA2b_R1,HepG2_IFNA2b_R2,HepG2_IFNA2b_R3	HepG2_IFNA2b_R4	5734	16
+emVars	replicate_all	HepG2_NS_replicates_allvs1	HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R1	5735	17
+emVars	replicate_all	HepG2_NS_replicates_allvs2	HepG2_NS_R1,HepG2_NS_R3,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R2	5735	17
+emVars	replicate_all	HepG2_NS_replicates_allvs3	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R4,HepG2_NS_R5	HepG2_NS_R3	5735	17
+emVars	replicate_all	HepG2_NS_replicates_allvs4	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R5	HepG2_NS_R4	5735	17
+emVars	replicate_all	HepG2_NS_replicates_allvs5	HepG2_NS_R1,HepG2_NS_R2,HepG2_NS_R3,HepG2_NS_R4	HepG2_NS_R5	5735	17
+emVars	replicate_all	HepG2_TNFa_allvs1	HepG2_TNFa_R2,HepG2_TNFa_R3	HepG2_TNFa_R1	5708	13
+emVars	replicate_all	HepG2_TNFa_allvs2	HepG2_TNFa_R1,HepG2_TNFa_R3	HepG2_TNFa_R2	5708	13
+emVars	replicate_all	HepG2_TNFa_allvs3	HepG2_TNFa_R1,HepG2_TNFa_R2	HepG2_TNFa_R3	5708	13
+emVars	replicate_all	K562_IFNA2b_allvs1	K562_IFNA2b_R2,K562_IFNA2b_R3,K562_IFNA2b_R4	K562_IFNA2b_R1	5708	14
+emVars	replicate_all	K562_IFNA2b_allvs2	K562_IFNA2b_R1,K562_IFNA2b_R3,K562_IFNA2b_R4	K562_IFNA2b_R2	5708	14
+emVars	replicate_all	K562_IFNA2b_allvs3	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R4	K562_IFNA2b_R3	5708	14
+emVars	replicate_all	K562_IFNA2b_allvs4	K562_IFNA2b_R1,K562_IFNA2b_R2,K562_IFNA2b_R3	K562_IFNA2b_R4	5708	14
+emVars	replicate_all	K562_NS_replicates_allvs1	K562_NS_R2,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_NS_R1	5735	16
+emVars	replicate_all	K562_NS_replicates_allvs2	K562_NS_R1,K562_NS_R3,K562_NS_R4,K562_NS_R5	K562_NS_R2	5735	16
+emVars	replicate_all	K562_NS_replicates_allvs3	K562_NS_R1,K562_NS_R2,K562_NS_R4,K562_NS_R5	K562_NS_R3	5735	16
+emVars	replicate_all	K562_NS_replicates_allvs4	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R5	K562_NS_R4	5735	16
+emVars	replicate_all	K562_NS_replicates_allvs5	K562_NS_R1,K562_NS_R2,K562_NS_R3,K562_NS_R4	K562_NS_R5	5735	16
+emVars	replicate_all	K562_TNFa_allvs1	K562_TNFa_R2,K562_TNFa_R3	K562_TNFa_R1	5709	13
+emVars	replicate_all	K562_TNFa_allvs2	K562_TNFa_R1,K562_TNFa_R3	K562_TNFa_R2	5709	13
+emVars	replicate_all	K562_TNFa_allvs3	K562_TNFa_R1,K562_TNFa_R2	K562_TNFa_R3	5709	13
+emVars	replicate_all	K562_DEX_allvs1	K562_DEX_R2,K562_DEX_R3	K562_DEX_R1	5709	13
+emVars	replicate_all	K562_DEX_allvs2	K562_DEX_R1,K562_DEX_R3	K562_DEX_R2	5709	13
+emVars	replicate_all	K562_DEX_allvs3	K562_DEX_R1,K562_DEX_R2	K562_DEX_R3	5709	13
+emVars	replicate_pair	A549-ACE2_IAV_replicates_1vs2	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R2	5706	12
+emVars	replicate_pair	A549-ACE2_IAV_replicates_1vs3	A549-ACE2_IAV_R1-P3	A549-ACE2_IAV_R3	5709	12
+emVars	replicate_pair	A549-ACE2_NS_P3-effect_1vs23	A549-ACE2_NS_R1	A549-ACE2_NS_R2-P3,A549-ACE2_NS_R3-P3	5710	13
+emVars	replicate_pair	A549-ACE2_NS_replicates_1vs2	A549-ACE2_NS_R1	A549-ACE2_NS_R2-P3	5708	12
+emVars	replicate_pair	A549-ACE2_NS_replicates_1vs3	A549-ACE2_NS_R1	A549-ACE2_NS_R3-P3	5709	12
+emVars	replicate_pair	A549-ACE2_SARS_replicates_1vs2	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R2-P3	5709	12
+emVars	replicate_pair	A549-ACE2_SARS_replicates_1vs3	A549-ACE2_SARS_R1-P3	A549-ACE2_SARS_R3-P3	5707	12
+emVars	replicate_pair	A549-ACE2_TNFa_replicates_1vs2	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R2	5708	12
+emVars	replicate_pair	A549-ACE2_TNFa_replicates_1vs3	A549-ACE2_TNFa_R1	A549-ACE2_TNFa_R3	5705	12
+emVars	replicate_pair	HepG2_DEX_replicates_1vs2	HepG2_DEX_R1	HepG2_DEX_R2	5735	13
+emVars	replicate_pair	HepG2_DEX_replicates_1vs3	HepG2_DEX_R1	HepG2_DEX_R3	5734	13
+emVars	replicate_pair	HepG2_IFNA2b_replicates_1vs2	HepG2_IFNA2b_R1	HepG2_IFNA2b_R2	5590	13
+emVars	replicate_pair	HepG2_IFNA2b_replicates_1vs3	HepG2_IFNA2b_R1	HepG2_IFNA2b_R3	5734	13
+emVars	replicate_pair	HepG2_IFNA2b_replicates_1vs4	HepG2_IFNA2b_R1	HepG2_IFNA2b_R4	5587	13
+emVars	replicate_pair	HepG2_NS_replicates_1vs2	HepG2_NS_R1	HepG2_NS_R2	5597	14
+emVars	replicate_pair	HepG2_NS_replicates_1vs3	HepG2_NS_R1	HepG2_NS_R3	5734	13
+emVars	replicate_pair	HepG2_NS_replicates_1vs4	HepG2_NS_R1	HepG2_NS_R4	5587	13
+emVars	replicate_pair	HepG2_NS_replicates_1vs5	HepG2_NS_R1	HepG2_NS_R5	5734	13
+emVars	replicate_pair	HepG2_TNFa_replicates_1vs2	HepG2_TNFa_R1	HepG2_TNFa_R2	5707	12
+emVars	replicate_pair	HepG2_TNFa_replicates_1vs3	HepG2_TNFa_R1	HepG2_TNFa_R3	5706	12
+emVars	replicate_pair	K562_IFNA2b_replicates_1vs2	K562_IFNA2b_R1	K562_IFNA2b_R2	5706	12
+emVars	replicate_pair	K562_IFNA2b_replicates_1vs3	K562_IFNA2b_R1	K562_IFNA2b_R3	5705	12
+emVars	replicate_pair	K562_IFNA2b_replicates_1vs4	K562_IFNA2b_R1	K562_IFNA2b_R4	5707	12
+emVars	replicate_pair	K562_NS_replicates_1vs2	K562_NS_R1	K562_NS_R2	5735	13
+emVars	replicate_pair	K562_NS_replicates_1vs3	K562_NS_R1	K562_NS_R3	5734	13
+emVars	replicate_pair	K562_NS_replicates_1vs4	K562_NS_R1	K562_NS_R4	5734	13
+emVars	replicate_pair	K562_NS_replicates_1vs5	K562_NS_R1	K562_NS_R5	5734	13
+emVars	replicate_pair	K562_TNFa_replicates_1vs2	K562_TNFa_R1	K562_TNFa_R2	5708	12
+emVars	replicate_pair	K562_TNFa_replicates_1vs3	K562_TNFa_R1	K562_TNFa_R3	5708	12
+emVars	replicate_pair	K562_DEX_replicates_1vs2	K562_DEX_R1	K562_DEX_R2	5708	12
+emVars	replicate_pair	K562_DEX_replicates_1vs3	K562_DEX_R1	K562_DEX_R3	5708	12
